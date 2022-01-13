@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 * {
-    background-color: #1F2937;
-    color: white;
+    background-color:white;
+    color: black;
 
 }
 
@@ -28,14 +28,12 @@
 .left-content {
     align-self: center;
     text-align:center;
-    color: white;
 }
 
 .right-content {
     align-items:center;
     display: inline-block;
     margin: 30px;
-    color: white;
 }
 
 .header3{
@@ -61,7 +59,6 @@
     margin: 25px;
     font-size: 36px;
     weight: 1000;
-    color: white;
 }
 
 .txt4 {
@@ -70,7 +67,6 @@
     margin: 25px;
     font-size:36px;
     weight: 1000;
-    color: white;
 }
 
 .txt5 {
@@ -79,7 +75,6 @@
     margin: 25px;
     font-size: 36px;
     weight: 1000;
-    color: white;
 
 }
 
@@ -113,7 +108,6 @@ img {
     flex: 1;
     margin-left: 50px;
     font-size: 24px;
-    color: white;
 
 }
 
@@ -125,7 +119,6 @@ img {
     flex: 1;
     justify-content: flex-end;
     font-size: 18px;
-    color: white;
 
 }
 a.signupbutton {
